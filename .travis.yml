@@ -5,4 +5,4 @@ install:
   - nuget restore TTCSServer/TTCSServer.sln
 
 script:
-make build
+   - make build
